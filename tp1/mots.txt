@@ -1,0 +1,10 @@
+python
+reseau
+ordinateur
+serveur
+protocole
+routeur
+clavier
+programme
+fonction
+dictionnaire
