@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+livres.csv
+utilisateurs.csv
+livres.json
+*.tmp
