@@ -1,4 +1,4 @@
-# nom-prenom-r308 : R3.08 POO Python
+# dijoux-brice-r308 : R3.08 POO Python
 
 Un dossier par TP. Python 3.10 ou plus. Chaque script se lance depuis son dossier
 (`cd tp1`, `cd tp2` ou `cd tp3`).
